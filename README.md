@@ -1,5 +1,5 @@
 <h1 align="center">Cek Ladang</h1>
-<p align="center">Capstone project bangkit 2024 - Cloud Computing</p>
+<p align="center">Capstone Project Bangkit 2024 - Cloud Computing</p>
 
 This service provides a robust API designed for the History feature, which manages and stores crop disease prediction results. It enables users to effortlessly track their analysis and plant progress over time. The prediction data is securely stored in Firestore, ensuring that the information remains well-organized, protected, and easily accessible whenever needed.
 
