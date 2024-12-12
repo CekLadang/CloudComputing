@@ -1,0 +1,14 @@
+{
+  "name": "cek-ladang-web",
+  "version": "1.0.0",
+  "description": "Cek Ladang adalah sistem pemeriksaan tumbuhan secara otomatis",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
