@@ -106,4 +106,4 @@ You can visit https://cekladang-444312.uc.r.appspot.com to learn more about the 
 
 # Pull Requests
 
-I'd be happy to review any pull requests that may better the TanamIn project, in particular if you have a bug fix, enhancement, or a new idea, you can contact us.
+I'd be happy to review any pull requests that may better the CekLadang project, in particular if you have a bug fix, enhancement, or a new idea, you can contact us.
